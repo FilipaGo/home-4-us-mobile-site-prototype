@@ -271,6 +271,7 @@ On mobile, both the Product Page and the Cart Page have fixed sections to the bo
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-mobile-site-prototype/master/_images_readme/mockups-02.jpg" width="1000" />
 Home4Us Mockups. Cart.
 </p>
+<br></br>
 
 The first step in the checkout process already delivers a complete summary of everything that may influence the final price, avoiding late surprises regarding total cost and thus reducing friction.
 
