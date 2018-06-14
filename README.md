@@ -157,7 +157,7 @@ The following “meetings” outlined other relevant information that helped ref
 * Automatically generated breadcrumbs (for example, when the client creates a new product page);
 * Add/change images’ alt text;
 * Add/update internal and external links;
-* SSL Cetificate;
+* SSL Certificate;
 * CMS training;
 * Optimized SEO:
   * Each page should have its own editable metadata – title, keywords, description;
