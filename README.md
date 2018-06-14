@@ -57,14 +57,14 @@ Even though the shop is located at a local shopping center, their business philo
 
 ## Problem
 
+Home4Us' old and outdated Weebly website was unsuitable for the requirements of today's users. The website was not responsive and wasn't an online shop; it had a mobile version but with a lot of navigation problems and low quality photography that didn't properly showcase the products' quality and brand values.
+
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-mobile-site-prototype/master/_images_readme/home4us_old.jpg " width="1000" />
 Home4Us' original website.
 </p>
 <br></br>
-
-Home4Us' old and outdated Weebly website was unsuitable for the requirements of today's users. The website was not responsive and wasn't an online shop; it had a mobile version but with a lot of navigation problems and low quality photography that didn't properly showcase the products' quality and brand values.
 
 The website was almost a product catalog, subdivided by categories and sub-categories, built using a standard template, that was barely configurable.
 
