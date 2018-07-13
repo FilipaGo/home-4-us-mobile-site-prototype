@@ -199,7 +199,7 @@ Some early stage wireframes. Always with real content!
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-mobile-site-prototype/master/_images_readme/wireframes.jpg" alt="Wireframes' details" width="1000" />
-Some wireframes for the Homepage, Product Page and Cart. You can check out all the wireframes <a href="https://github.com/FilipaGo/home-4-us-desktop-site-prototype/tree/master/_images_readme/wireframes" >here</a>.
+Some wireframes for the Homepage, Product Page and Cart. You can check out all the wireframes <a href="https://github.com/FilipaGo/home-4-us-mobile-site-prototype/tree/master/_images_readme/wireframes" >here</a>.
 </p>
 
 When the time came to choose fonts and colours, I went for a hand-drawn font for the headings to add a little charm and personal touch, and a more subtle font for the body text. Bold and vibrant colours were a risky choice that paid off.
@@ -290,4 +290,4 @@ Graceful Degradation;
 
 [homepage](https://filipago.github.io/home-4-us/)  //  [product page](https://filipago.github.io/home-4-us/produto.html)  //  [contact form](https://filipago.github.io/home-4-us/contactos.html)
 
-I gave a presentation on this project explaining how I structured its development. You can [download it here]( https://github.com/FilipaGo/home-4-us-desktop-site-prototype/raw/master/_docs_readme/apresentacao_ltd.pdf "Home4Us Keynote Presentation").
+I gave a presentation on this project explaining how I structured its development. You can [download it here]( https://github.com/FilipaGo/home-4-us-mobile-site-prototype/raw/master/_docs_readme/apresentacao_ltd.pdf "Home4Us Keynote Presentation").
